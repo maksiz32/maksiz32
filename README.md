@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maksim Manzulin
 - 👀 I’m interested in how to make Web more humanely
-- 🌱 I’m currently learning PHP, JS, HTML, CSS, GO
+- 🌱 I’m currently learning PHP, JS, HTML, CSS, SCSS, GO
 - 📫 How to reach me: Telegram - @maksiz32
 
 <!---
